@@ -1,0 +1,51 @@
+.taskComplete {
+    text-decoration: line-through;
+}
+
+body {
+    background-color: blueviolet;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#form {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    padding: 10px 0;
+    width: 300px;
+    height: 30px;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+
+#textInput {
+    background-color: rgb(196, 196, 196);
+    margin-right: 20px;
+    border-radius: 5px;
+}
+
+button {
+    background-color: aqua;
+    border-radius: 5px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 5em;
+    color: white;
+}
+
+li {
+    display: flex;
+    justify-content: center;
+    margin: 0.5em 2em 0 24.3em;
+    padding: 10px;
+    background-color: rgba(197, 180, 180, 0.302);
+    width: 270px;
+    border-radius: 10px;
+}
+
+li button {
+    margin-left: 2em;
+    text-align: center;
+}
